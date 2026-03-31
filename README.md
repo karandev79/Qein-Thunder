@@ -1,2 +1,2 @@
-# Qein-Go
-a small modern easy to carry 6w bluetooth speaker
+# Qein-Thunder
+a powerful 24W bluetooth speaker

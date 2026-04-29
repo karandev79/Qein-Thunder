@@ -1,14 +1,16 @@
-Quantity,Components,Total Price,Buy Link
-1,"12V 2Amp DC Power Supply Adapter",$4.27,https://amzn.in/d/0g1z4yod
-1,XYP15W Digital Amplifier,$3.20,"https://zbotic.in/product/10w-15w-20w-stereo-bluetooth-power-amplifier-board-12v-24v-high-power-digital-amplifier-module-xyp15w/?gad_campaignid=20903026778"
-2,2.25 Inch 8-Ohm 12W speakers,$3.40,https://makerbazar.in/products/2-25-inch-speaker-8ohm-8w?variant=48829026533616
-1,Female DC Barrel Power Jack Plug Connector,$0.096,https://makerbazar.in/products/power-connector-dc-jack?variant=49458419630320
-1,KCD1 Round Rocker SPST Switch,$0.14,https://makerbazar.in/products/round-rocker-switch-2-leg-pack-of-2-spst?variant=42143153684720
-1,Instant Adhesive Glue,$0.53,https://makerbazar.in/products/fixwell-strong-instant-adhesive-glue?variant=46353937531120
-2,18AWG red & black wires,$1.54,"https://robu.in/product/18awg-silicone-braided-wire-black-high-flex/, https://robu.in/product/18awg-silicone-braided-wire-red-high-flex/"
-3,Mini Round Push Button,$1.19,https://robu.in/product/black-waterproof-pbs-33b-12mm-2pin-self-reset-mini-round-push-button/
-2,Rubber Passive Radiator ,$1.54,https://makerbazar.in/products/rubber-passive-radiator-bass-vibration-plates-2040-6090?variant=48251037450480
-5,Transparent Adhesive Glue Gun Sticks ,$1.12,https://makerbazar.in/products/glue-gun-sticks?variant=48804713365744
-0,Mics ,$2,
-,Shipping charges,$1.16,
-,Total,$20.1,($20 approx)
+Component,Qty,Unit Price (INR),Unit Price (USD),Subtotal (INR),Subtotal (USD),Link
+FEDUS 12V 2Amp DC Power Supply Adapter,1,₹389.00,$4.1047,₹389.00,$4.1047,https://www.amazon.in/dp/B015HB2FOU?psc=1&ref_=cm_sw_r_cp_ud_ct_KSQ7FA4E0XH62TXKSDM5
+XY-P15W Bluetooth 5.0 Amplifier Board,1,₹398.00,$4.1996,₹398.00,$4.1996,https://www.amazon.in/dp/B0F3JWZQJM?psc=1&ref_=cm_sw_r_cp_ud_ct_KSQ7FA4E0XH62TXKSDM5_1
+Female DC Barrel Power Jack,1,₹19.00,$0.2005,₹19.00,$0.2005,https://makerbazar.in/products/power-connector-dc-jack?variant=49458419695856
+2.25Inch External Magnet Speaker With Frame,2,₹199.00,$2.0998,₹398.00,$4.1996,https://makerbazar.in/products/2-25-inch-speaker-8ohm-8w?variant=48829026533616
+Round Rocker SPST Switch 2 Leg,1,₹13.00,$0.1372,₹13.00,$0.1372,https://makerbazar.in/products/round-rocker-switch-2-leg-pack-of-2-spst?variant=42143153684720
+Rubber Passive Radiator Bass Vibration Plates,2,₹72.00,$0.7597,₹144.00,$1.5195,https://makerbazar.in/products/rubber-passive-radiator-bass-vibration-plates-2040-6090?variant=48251037450480
+Instant Adhesive Glue,1,₹50.00,$0.5276,₹50.00,$0.5276,https://makerbazar.in/products/fixwell-strong-instant-adhesive-glue?variant=46353937531120
+18AWG Silicone Braided Wire (Black),1,₹36.00,$0.3799,₹36.00,$0.3799,https://robu.in/product/18awg-silicone-braided-wire-black-high-flex
+18AWG Silicone Braided Wire (Red),1,₹36.00,$0.3799,₹36.00,$0.3799,https://robu.in/product/18awg-silicone-braided-wire-red-high-flex
+12MM 2PIN Self-Reset Mini Round Push Button,3,₹37.00,$0.3904,₹111.00,$1.1713,https://robu.in/product/black-waterproof-pbs-33b-12mm-2pin-self-reset-mini-round-push-button
+Glue Gun Sticks,5,₹21.00,$0.2216,₹105.00,$1.1079,https://makerbazar.in/products/glue-gun-sticks?variant=48804713365744
+Shipping and Taxes (₹49 + ₹60 + ₹5),1,₹114.00,$1.2029,₹114.00,$1.2029,
+Misc,1,₹284.31,$3.0000,₹284.31,$3.0000,
+Soldering Iron 900M-T-I bit,1,₹100.00,$1.0552,₹100.00,$1.0552,https://makerbazar.in/products/60w-premium-soldering-iron-station-bit?variant=48251047641328
+GRAND TOTAL,,,,₹2197,$23,
